@@ -17,6 +17,11 @@
 /files/en-us/    @mdn/yari-content-mdn
 
 # ----------------------------------------------------------------------------
+# GITHUB WORKFLOW OWNER(S)
+# ----------------------------------------------------------------------------
+/.github/   @mdn/yari-content-mdn
+
+# ----------------------------------------------------------------------------
 # ENGLISH WEB ACCESSIBILITY CONTENT OWNER(S)
 # ----------------------------------------------------------------------------
 /files/en-us/web/accessibility/    @mdn/yari-content-accessibility
